@@ -3,7 +3,7 @@
 <channel>
   <title>Александр Тазин — все черновики, один фид</title>
   <link>https://alexander-tazin.online/</link>
-  <atom:link href="https://alexander-tazin.online/feeds/tazin-all-drafts-v1.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/tazin-all-drafts-v1.xml" rel="self" type="application/rss+xml" />
   <description>Все посты по всем сетям в одной ленте. Заголовок каждой записи начинается с [Сеть] — публиковать вручную в нужную соцсеть.</description>
   <language>ru</language>
   <lastBuildDate>Sun, 23 Aug 2026 15:00:00 +0000</lastBuildDate>
@@ -498,7 +498,7 @@
     <title>[Instagram] #1 публиковать Пн 24.08. Мост на закате</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Каждый вечер этот мост напоминает: то, что позади, не обязательно тащить с собой вперёд. Работаю с людьми, которые несут груз чужих реакций и родовых сценариев. Помогаю его оставить там, где ему место. 🧭 Психолог · Регрессолог · Гипнолог · Разбор вашего случая в директ.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-1-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:43:00 +0000</pubDate>
   </item>
@@ -506,7 +506,7 @@
     <title>[Instagram] #2 публиковать Ср 26.08. Кабинет, карманные часы</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Это не гипноз в привычном смысле. Вы в сознании всю сессию, просто с доступом к памяти на уровне, где рациональный ум ещё не успел всё заблокировать. Два часа личной работы, один на один.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-2-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:44:00 +0000</pubDate>
   </item>
@@ -514,7 +514,7 @@
     <title>[Instagram] #3 публиковать Пт 28.08. Кейс: страх собак у дочери</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Девочка боялась собак так, что переходила дорогу при виде щенка. На регрессии с матерью всплыл её собственный испуг из детства, задолго до рождения дочери. Дети наследуют не только гены.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-3-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:45:00 +0000</pubDate>
   </item>
@@ -522,7 +522,7 @@
     <title>[Instagram] #4 публиковать Пн 31.08. «Внутренний контролёр»</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Три раза перепроверял, закрыл ли дверь, хотя точно помнил, что закрыл. Прошёл регрессию и нашёл момент, где этот голос появился как способ выжить в детстве. Теперь узнаю его сразу.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-4-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:46:00 +0000</pubDate>
   </item>
@@ -530,7 +530,7 @@
     <title>[Instagram] #5 публиковать Ср 02.09. 5 шагов метода (инфографика)</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Разговор, тело, регрессия, смена реакции, заземление. Один проход, одна сессия. Астрология и нумерология здесь карта, где искать быстрее.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-5-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:47:00 +0000</pubDate>
   </item>
@@ -538,7 +538,7 @@
     <title>[Instagram] #6 публиковать Пт 04.09. Заснеженный лес, чашка с паром</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Ангарск, минус тридцать пять. Здесь не принято говорить о чувствах вслух, принято терпеть. Я вырос в этой логике и развернул её в другую сторону, чтобы заняться этой профессией.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-6-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:48:00 +0000</pubDate>
   </item>
@@ -546,7 +546,7 @@
     <title>[Instagram] #7 публиковать Пн 07.09. Кейс совместной сессии с Людмилой</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[На части сессий рядом со мной работает Людмила, со «слипером», вторым каналом считывания того, что тело ещё не может назвать словами. Веду сессию сам, она подключается точечно.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-7-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:49:00 +0000</pubDate>
   </item>
@@ -554,7 +554,7 @@
     <title>[Instagram] #8 публиковать Ср 09.09. «Это не гадание»</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Регрессивная терапия смотрит назад, не вперёд. Астрология и нумерология здесь не предсказывают судьбу, а показывают узкие места. Скажу, где именно вас тормозит паттерн.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-8-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:50:00 +0000</pubDate>
   </item>
@@ -562,7 +562,7 @@
     <title>[Instagram] #9 публиковать Пт 11.09. Гарантия «одна сессия либо возврат»</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Одна проблема решается за одну сессию, либо возврат полной стоимости. Работаю с точкой записи, а не с симптомом. Риск на мне, не на вас.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-9-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:51:00 +0000</pubDate>
   </item>
@@ -570,7 +570,7 @@
     <title>[Instagram] #10 публиковать Пн 14.09. День из практики</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Три сессии подряд, к вечеру голова звенит, будто сам всё прожил. Между сессиями пятнадцать минут тишины без телефона. Веду всё сам, без очереди из ассистентов.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-10-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:52:00 +0000</pubDate>
   </item>
@@ -578,7 +578,7 @@
     <title>[Instagram] #11 публиковать Ср 16.09. Отзыв/кейс каруселью</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[[РЕАЛЬНЫЙ ОТЗЫВ/КЕЙС. Вставить с согласия клиента. Если пока нет, заменить на карточку с итогами кейса «страх собак» спустя время, без придуманных цитат]]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-11-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:53:00 +0000</pubDate>
   </item>
@@ -586,7 +586,7 @@
     <title>[Instagram] #12 публиковать Пт 18.09. Приглашение на разбор</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Узнали в этих постах свою реакцию или паттерн? Самое время не откладывать. 🧭 Психолог · Регрессолог · Гипнолог · Напишите в директ, отвечаю лично.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-ig-12-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:54:00 +0000</pubDate>
   </item>
@@ -594,7 +594,7 @@
     <title>[Pinterest] ТЕСТ — реальный контент не готов (нужен рендер карточек)</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Тестовая запись, проверка подключения. Реальные 42+ пина будут добавлены отдельно.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-photo.jpg" type="image/jpeg" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-photo.jpg" type="image/jpeg" length="281650" />
     <guid isPermaLink="false">combined-pin-test-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:55:00 +0000</pubDate>
   </item>
@@ -609,7 +609,7 @@
     <title>[YouTube] ТЕСТ — видео ещё не отснято</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Тестовая запись с видео, проверка подключения. Реальные ролики появятся после съёмки.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-video.mp4" type="video/mp4" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-video.mp4" type="video/mp4" length="4662356" />
     <guid isPermaLink="false">combined-yt-test-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:57:00 +0000</pubDate>
   </item>
@@ -617,7 +617,7 @@
     <title>[TikTok] ТЕСТ — видео ещё не отснято</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Тестовая запись с видео, проверка подключения. Реальные ролики появятся после съёмки.]]></description>
-    <enclosure url="https://alexander-tazin.online/feeds/media/test-video.mp4" type="video/mp4" />
+    <enclosure url="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/media/test-video.mp4" type="video/mp4" length="4662356" />
     <guid isPermaLink="false">combined-tt-test-2026</guid>
     <pubDate>Sun, 23 Aug 2026 15:58:00 +0000</pubDate>
   </item>
