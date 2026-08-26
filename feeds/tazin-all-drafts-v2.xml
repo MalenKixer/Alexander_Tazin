@@ -6,7 +6,7 @@
   <atom:link href="https://raw.githubusercontent.com/MalenKixer/Alexander_Tazin/test-rss-feed-only/feeds/tazin-all-drafts-v2.xml" rel="self" type="application/rss+xml" />
   <description>Первые 5 постов на каждую сеть (Telegram/VK/Instagram), без фото. Заголовок каждой записи начинается с [Сеть] — публиковать вручную в нужную соцсеть.</description>
   <language>ru</language>
-  <lastBuildDate>Wed, 26 Aug 2026 08:07:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 08:24:00 +0000</lastBuildDate>
   <item>
     <title>[Telegram] День 1, публиковать Пн 24.08 (через день). Замечали, что канал давно молчал?</title>
     <link>https://alexander-tazin.online/</link>
@@ -16,9 +16,11 @@
 
 Если коротко, никуда не пропал и дело не бросил, просто ушёл туда, куда обычно веду других, и задержался там дольше, чем думал.
 
+Заодно решил вектор для канала дальше: не разрозненные мысли по настроению, а по-настоящему разобранные темы, реальные случаи из практики, метод по шагам, честные ответы на частые возражения и то, что обычно остаётся за кадром. Если есть тема, которая давно волнует, напишите в комментариях, разберу её в одном из следующих постов.
+
 А что это было на самом деле, расскажу завтра, потому что сегодня хочу просто сказать привет и выдохнуть перед всем остальным.]]></description>
     <guid isPermaLink="false">v2-tg-1-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 03:07:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 03:24:00 +0000</pubDate>
   </item>
   <item>
     <title>[Telegram] День 2, публиковать Ср 26.08 (через день). Бывало, что вы пропадали и никому не объясняли почему?</title>
@@ -31,7 +33,7 @@
 
 Что именно там нашлось, отдельная история, длиннее, чем один пост, и ещё вернусь к ней.]]></description>
     <guid isPermaLink="false">v2-tg-2-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 03:27:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 03:44:00 +0000</pubDate>
   </item>
   <item>
     <title>[Telegram] День 3, публиковать Пт 28.08 (через день). Как вы представляете себе мой обычный день?</title>
@@ -44,7 +46,7 @@
 
 Есть ощущение, что именно эта простая, будничная жизнь держит всё остальное на плаву, и почему так, объясню чуть позже.]]></description>
     <guid isPermaLink="false">v2-tg-3-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 03:47:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 04:04:00 +0000</pubDate>
   </item>
   <item>
     <title>[Telegram] День 4, публиковать Вс 30.08 (через день). У вас есть план, который пока боитесь озвучить вслух?</title>
@@ -57,7 +59,7 @@
 
 Расскажу, как только форма этой идеи станет понятнее мне самому.]]></description>
     <guid isPermaLink="false">v2-tg-4-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 04:07:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 04:24:00 +0000</pubDate>
   </item>
   <item>
     <title>[Telegram] День 5, публиковать Вт 01.09 (через день). Замечали за собой чувство, что жмёте на газ, а не едете?</title>
@@ -72,42 +74,42 @@
 
 С завтрашнего дня возвращаюсь к обычным историям из практики и начну с самого частого страха, с которым люди приходят на первую встречу.]]></description>
     <guid isPermaLink="false">v2-tg-5-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 04:27:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 04:44:00 +0000</pubDate>
   </item>
   <item>
     <title>[VK] публиковать Пн 24.08 (по Дню 1 TG)</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Замечали, что канал давно молчал? Не пропал и не бросил дело, просто ушёл туда, куда обычно веду других, и задержался там дольше, чем планировал. Почему, расскажу дальше. #психология #регрессивнаятерапия]]></description>
     <guid isPermaLink="false">v2-vk-1-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 04:47:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 05:04:00 +0000</pubDate>
   </item>
   <item>
     <title>[VK] публиковать Ср 26.08 (по Дню 2 TG)</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Бывало, что вы пропадали и никому не объясняли почему? Со мной сейчас так: прошёл через собственную регрессию глубже, чем обычно, потому что накопилось внутри, и разбираться нужно было на том же уровне, где всё записано. Что нашлось, расскажу дальше. #психология #регрессивнаятерапия]]></description>
     <guid isPermaLink="false">v2-vk-2-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 05:07:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 05:24:00 +0000</pubDate>
   </item>
   <item>
     <title>[VK] публиковать Пт 28.08 (по Дню 3 TG)</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Как вы представляете себе мой обычный день? Минус тридцать пять зимой за окном, а работа всё та же: включаю камеру и веду сессии из дома уже десять лет, будни почти не изменились внешне, а внутри поменялось многое. Сейчас чаще разбираю уже свои реакции, а не чужие. #психология #регрессивнаятерапия]]></description>
     <guid isPermaLink="false">v2-vk-3-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 05:27:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 05:44:00 +0000</pubDate>
   </item>
   <item>
     <title>[VK] публиковать Пн 07.09 (по Дню 8 TG)</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Замечали, что иногда не хватает слов объяснить своё состояние? На части сессий рядом со мной работает Людмила, со «слипером». Пока я веду регрессию словами, она считывает то, что тело ещё не может назвать. Второй канал, не замена основной работе. #психология #регрессивнаятерапия]]></description>
     <guid isPermaLink="false">v2-vk-8-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 05:47:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 06:04:00 +0000</pubDate>
   </item>
   <item>
     <title>[VK] публиковать Ср 09.09 (по Дню 9 TG)</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Знаете чувство, когда чужие проблемы не выходят из головы весь день? Держать чужую боль, не растворяясь в ней, отдельный навык, которому нигде не учат. Между сессиями у меня пятнадцать минут тишины, чтобы не тащить одного клиента в разговор со следующим. #психология #регрессивнаятерапия]]></description>
     <guid isPermaLink="false">v2-vk-9-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 06:07:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 06:24:00 +0000</pubDate>
   </item>
   <item>
     <title>[Instagram] #1 публиковать Пн 24.08. Тащите с собой то, что давно пора оставить позади?</title>
@@ -115,35 +117,35 @@
     <description><![CDATA[Каждый вечер этот мост напоминает: то, что позади, не обязательно тащить с собой вперёд. Работаю с людьми, которые несут груз чужих реакций и родовых сценариев. Помогаю его оставить там, где ему место.
 🧭 Психолог · Регрессолог · Гипнолог]]></description>
     <guid isPermaLink="false">v2-ig-1-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 06:27:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 06:44:00 +0000</pubDate>
   </item>
   <item>
     <title>[Instagram] #2 публиковать Ср 26.08. Боитесь гипноза?</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Это не гипноз в привычном смысле. Вы в сознании всю сессию, просто с доступом к памяти на уровне, где рациональный ум ещё не успел всё заблокировать. Два часа личной работы, один на один.]]></description>
     <guid isPermaLink="false">v2-ig-2-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 06:47:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 07:04:00 +0000</pubDate>
   </item>
   <item>
     <title>[Instagram] #3 публиковать Пт 28.08. Ваш ребёнок боится того же, чего боитесь вы?</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Девочка боялась собак так, что переходила дорогу при виде щенка. На регрессии с матерью всплыл её собственный испуг из детства, задолго до рождения дочери. Дети наследуют не только гены.]]></description>
     <guid isPermaLink="false">v2-ig-3-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 07:07:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 07:24:00 +0000</pubDate>
   </item>
   <item>
     <title>[Instagram] #4 публиковать Пн 31.08. Знаком вам внутренний контролёр?</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Три раза перепроверял, закрыл ли дверь, хотя точно помнил, что закрыл. Прошёл регрессию и нашёл момент, где этот голос появился как способ выжить в детстве. Теперь узнаю его сразу.]]></description>
     <guid isPermaLink="false">v2-ig-4-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 07:27:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 07:44:00 +0000</pubDate>
   </item>
   <item>
     <title>[Instagram] #5 публиковать Ср 02.09. Хотите знать, из каких шагов состоит метод?</title>
     <link>https://alexander-tazin.online/</link>
     <description><![CDATA[Разговор, тело, регрессия, смена реакции, заземление. Один проход, одна сессия. Астрология и нумерология здесь карта, где искать быстрее.]]></description>
     <guid isPermaLink="false">v2-ig-5-2026</guid>
-    <pubDate>Wed, 26 Aug 2026 07:47:00 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 08:04:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
